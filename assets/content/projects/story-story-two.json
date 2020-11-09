@@ -1,0 +1,10 @@
+{
+  "project_type": "story",
+  "date": "2020-11-09T22:55:21.511Z",
+  "title": "Story Two",
+  "description": "a new story",
+  "body": "new story with gallery",
+  "gallery": [
+    "/img/hong-kong-500.jpg"
+  ]
+}
