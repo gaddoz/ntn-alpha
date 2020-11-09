@@ -5,6 +5,7 @@
   "description": "a new story",
   "body": "new story with gallery",
   "gallery": [
+    "/img/bromo-500.jpg",
     "/img/hong-kong-500.jpg"
   ]
 }
